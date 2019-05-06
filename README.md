@@ -42,4 +42,4 @@ email: dennis.mwai55@gmail.com
 
 ## The interface you will interact with
 
-![image](/Delani Studio.jpg)
+![image](Delani Studio.jpg)
