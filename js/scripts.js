@@ -26,7 +26,7 @@ $(document).ready(function (){
     })
 
     $(function(){
-        $('#workcard').mouseover(function(){
+        $('#workcard').hover(function(){
             $('#workcard').fadeTo("slow", 0.15);
             $('#work4text').show();
             
@@ -38,7 +38,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work3').mouseover(function(){
+        $('#work3').hover(function(){
             $('#work3').fadeTo("slow", 0.15);
             $('#work3text').show();
             
@@ -50,7 +50,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work2').mouseover(function(){
+        $('#work2').hover(function(){
             $('#work2').fadeTo("slow", 0.15);
             $('#work2text').show();
             
@@ -62,7 +62,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work1').mouseover(function(){
+        $('#work1').hover(function(){
             $('#work1').fadeTo("slow", 0.15);
             $('#work1text').show();
             
@@ -74,7 +74,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work5').mouseover(function(){
+        $('#work5').hover(function(){
             $('#work5').fadeTo("slow", 0.15);
             $('#work5text').show();
             
@@ -86,7 +86,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work6').mouseover(function(){
+        $('#work6').hover(function(){
             $('#work6').fadeTo("slow", 0.15);
             $('#work6text').show();
             
@@ -98,7 +98,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work7').mouseover(function(){
+        $('#work7').hover(function(){
             $('#work7').fadeTo("slow", 0.15);
             $('#work7text').show();
             
@@ -110,7 +110,7 @@ $(document).ready(function (){
     });
 
     $(function(){
-        $('#work8').mouseover(function(){
+        $('#work8').hover(function(){
             $('#work8').fadeTo("slow", 0.15);
             $('#work8text').show();
             
