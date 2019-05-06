@@ -74,3 +74,66 @@ p#developmenttext{
     margin-top: 20px;  
     font-size: 15px;
 }
+
+#workcard{
+    background-image: url(/assets/portfolio/work4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work3{
+    background-image: url(/assets/portfolio/work3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+#work2{
+    background-image: url(/assets/portfolio/work2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work1{
+    background-image: url(/assets/portfolio/work1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work5{
+    background-image: url(/assets/portfolio/work5.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work6{
+    background-image: url(/assets/portfolio/work6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work7{
+    background-image: url(/assets/portfolio/work7.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work8{
+    background-image: url(/assets/portfolio/work8.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
