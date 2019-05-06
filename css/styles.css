@@ -144,6 +144,48 @@ p#developmenttext{
     display: none;
 }
 
+#work3text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+#work2text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+#work1text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+#work5text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+#work6text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+#work7text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+#work8text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
 .jumbotron{
     padding-top: 0%;
 }
