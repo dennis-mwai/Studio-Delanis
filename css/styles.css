@@ -209,17 +209,12 @@ p#developmenttext{
 
 form{
     opacity: 0.5;
-    display: inline-block;
 }
 
 .center5{
     text-align: center;
     color: white;
     padding-top: 70px;
-}
-
-.comment{
-    height: 200px;
 }
 
 .name{
@@ -237,3 +232,4 @@ form{
 .list-unstyled{
     margin-top: 20px;
 }
+

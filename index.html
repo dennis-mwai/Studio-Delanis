@@ -4,14 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
     <link rel="stylesheet" href="./css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="./css/styles.css" type="text/css">
-    <script
-  src="https://code.jquery.com/jquery-3.4.0.js"
-  integrity="sha256-DYZMCC8HTC+QDr5QNaIcfR7VSPtcISykd+6eSmBW5qo="
-  crossorigin="anonymous"></script>
-  <script src="js/scripts.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.0.js" integrity="sha256-DYZMCC8HTC+QDr5QNaIcfR7VSPtcISykd+6eSmBW5qo=" crossorigin="anonymous"></script>
+    <script src="js/scripts.js"></script>
     <title>Delani Studio</title>
 </head>
 <body>
@@ -143,16 +139,20 @@
                             <div class="center5">
                                 <h3>CONTACT US</h3>
                                 <form id="theform" autocomplete="off">
-                                    <div class="row"> 
-                                        <div class="col-md-6">  
-                                            <input id="yourname" type="text" placeholder="Name..." size="30"> 
+                                    <div class="row">
+                                        <div class="form-group">
+                                            <div class="col-md-6"> 
+                                                <input id="yourname" type="text" placeholder="Name..." size="30">
+                                            </div>
+                                            <div class="col-md-6"> 
+                                                <input id="youremail" type="text" placeholder="Email..." size="30">
+                                            </div>
                                         </div>
-                                        <div class="col-md-6">
-                                            <input id="youremail" type="text" placeholder="Email..." size="30">
-                                        </div>
-                                        <div class="col-md-10">
-                                        <input id="yourcoment" class="comment" type="text" placeholder="Your message here..." size="30"> <br>
-                                        <input type="submit" value="Submit">
+                                        <div class="form-group">
+                                            <div class="col-md-12">
+                                                <textarea id="yourcoment" class="comment" placeholder="Your message here..." rows="5" cols="50"></textarea> <br>
+                                                <input type="submit" value="Submit">
+                                            </div>
                                         </div>
                                     </div>
                                 </form>
