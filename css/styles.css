@@ -13,6 +13,11 @@
     color: aliceblue;
 }
 
+body{
+    padding: 0;
+    margin: 0;
+}
+
 #mouseclick {
     position: absolute;
     top: 95%;
@@ -49,6 +54,7 @@ p#designtext{
     text-align: center;
     margin-top: 10px;  
     font-size: 15px;
+    display: none;
 }
 
 h6{
@@ -65,6 +71,7 @@ p#producttext{
     text-align: center;
     margin-top: 20px;  
     font-size: 15px;
+    display: none;
 }
 
 p#developmenttext{
@@ -73,6 +80,7 @@ p#developmenttext{
     text-align: center;
     margin-top: 20px;  
     font-size: 15px;
+    display: none;
 }
 
 #workcard{
