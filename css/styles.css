@@ -137,3 +137,39 @@ p#developmenttext{
     height: 200px;
     margin-top: 50px;
 }
+
+#work4text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+}
+
+.jumbotron{
+    padding-top: 0%;
+}
+
+form{
+    opacity: 0.5;
+    display: inline-block;
+}
+
+.center5{
+    text-align: center;
+    color: white;
+}
+
+.comment{
+    height: 200px;
+}
+
+.name{
+    align-items: right;
+}
+
+.background3{
+    background-image: url(/assets/backgrounds/c_image.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    margin-top: 50px;
+}
