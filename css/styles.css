@@ -1,5 +1,5 @@
 #background{
-    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-image: url("../assets/backgrounds/h_img.jpg");
     background-position: center;
     background-size: cover;
     height: 850px;
@@ -24,7 +24,7 @@
 } 
 
 #background2{
-    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-image: url("../assets/backgrounds/s_image.jpg");
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -76,7 +76,7 @@ p#developmenttext{
 }
 
 #workcard{
-    background-image: url(../assets/portfolio/work4.jpg);
+    background-image: url("../assets/portfolio/work4.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -84,14 +84,14 @@ p#developmenttext{
 }
 
 #work3{
-    background-image: url(../assets/portfolio/work3.jpg);
+    background-image: url("../assets/portfolio/work3.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
     margin-top: 50px;
 }
 #work2{
-    background-image: url(../assets/portfolio/work2.jpg);
+    background-image: url("../assets/portfolio/work2.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -99,7 +99,7 @@ p#developmenttext{
 }
 
 #work1{
-    background-image: url(../assets/portfolio/work1.jpg);
+    background-image: url("../assets/portfolio/work1.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -107,7 +107,7 @@ p#developmenttext{
 }
 
 #work5{
-    background-image: url(../assets/portfolio/work5.jpg);
+    background-image: url("../assets/portfolio/work5.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -115,7 +115,7 @@ p#developmenttext{
 }
 
 #work6{
-    background-image: url(../assets/portfolio/work6.jpg);
+    background-image: url("../assets/portfolio/work6.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -123,7 +123,7 @@ p#developmenttext{
 }
 
 #work7{
-    background-image: url(../assets/portfolio/work7.jpg);
+    background-image: url("../assets/portfolio/work7.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -131,7 +131,7 @@ p#developmenttext{
 }
 
 #work8{
-    background-image: url(../assets/portfolio/work8.jpg);
+    background-image: url("../assets/portfolio/work8.jpg");
     background-position: center;
     background-size: cover;
     height: 200px;
@@ -168,8 +168,8 @@ p#developmenttext{
 }
 
 #work5text{
-    color: wheat;
-    margin-top: 90px;
+    color: black;
+    margin-top: 70px;
     display: none;
     font-size: 30px;
 }
@@ -183,7 +183,7 @@ p#developmenttext{
 
 #work7text{
     color: wheat;
-    margin-top: 90px;
+    margin-top: 50px;
     display: none;
     font-size: 30px;
 }
@@ -219,7 +219,7 @@ form{
 }
 
 .background3{
-    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-image: url("../assets/backgrounds/c_image.jpg");
     background-position: center;
     background-size: cover;
     height: 500px;

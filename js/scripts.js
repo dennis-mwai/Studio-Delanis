@@ -126,7 +126,7 @@ $(document).ready(function (){
         var name= $('#yourname').val();
         var email = $('#youremail').val();
         var text = $('#yourcoment').val();
-        alert(`name: ${name}, email: ${email}, text: ${text}.`);
+        alert(`${name},  we have received your message. Thank you for reaching out to us.`);
       });
 
 });
