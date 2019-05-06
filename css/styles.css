@@ -151,7 +151,7 @@ p#developmenttext{
 }
 
 #work4text{
-    color: white;
+    color: blue;
     margin-top: 90px;
     display: none;
     font-size: 30px;
@@ -159,49 +159,49 @@ p#developmenttext{
 }
 
 #work3text{
-    color: rgb(243, 162, 12);
+    color: blue;
     margin-top: 60px;
     display: none;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 #work2text{
-    color: wheat;
+    color: blue;
     margin-top: 90px;
     display: none;
     font-size: 30px;
 }
 
 #work1text{
-    color: wheat;
+    color: blue;
     margin-top: 90px;
     display: none;
     font-size: 30px;
 }
 
 #work5text{
-    color: black;
+    color: blue;
     margin-top: 70px;
     display: none;
     font-size: 30px;
 }
 
 #work6text{
-    color:black;
+    color:blue;
     margin-top: 90px;
     display: none;
     font-size: 30px;
 }
 
 #work7text{
-    color: wheat;
+    color: blue;
     margin-top: 50px;
     display: none;
     font-size: 30px;
 }
 
 #work8text{
-    color: white;
+    color: blue;
     margin-top: 90px;
     display: none;
     font-size: 30px;
