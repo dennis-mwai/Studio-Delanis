@@ -139,51 +139,60 @@ p#developmenttext{
 }
 
 #work4text{
-    color: wheat;
+    color: white;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
+
 }
 
 #work3text{
     color: rgb(243, 162, 12);
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 #work2text{
     color: wheat;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 #work1text{
     color: wheat;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 #work5text{
     color: wheat;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 #work6text{
-    color: wheat;
+    color:black;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 #work7text{
     color: wheat;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 #work8text{
-    color: wheat;
+    color: white;
     margin-top: 90px;
     display: none;
+    font-size: 30px;
 }
 
 .jumbotron{
@@ -198,6 +207,7 @@ form{
 .center5{
     text-align: center;
     color: white;
+    padding-top: 70px;
 }
 
 .comment{
