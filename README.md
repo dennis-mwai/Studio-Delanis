@@ -39,7 +39,3 @@ Find the landing page [here](https://dennis-mwai.github.io/Studio-Delanis/).
 ## Contact information
 
 email: dennis.mwai55@gmail.com
-
-## The interface you will interact with
-
-![image](Delani Studio.jpg)
