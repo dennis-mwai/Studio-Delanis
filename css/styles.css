@@ -26,6 +26,7 @@ body{
 
 #center2{
     text-align: center;
+    margin-top: 50px;
 } 
 
 #background2{
@@ -46,6 +47,7 @@ body{
 
 .center4{
     text-align: center;
+    margin-top: 50px;
 }
 
 p#designtext{
@@ -64,6 +66,8 @@ h6{
 .card{
     align-content: center;
     text-align: center;
+    background: none;
+    border: none;
 }
 p#producttext{
     width: 100%;
